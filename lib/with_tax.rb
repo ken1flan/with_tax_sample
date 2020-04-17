@@ -1,3 +1,5 @@
+require 'date'
+
 module WithTax
   TAX_TABLE = {
     '2019/10/01': 0.10,
